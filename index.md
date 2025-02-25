@@ -1,5 +1,5 @@
 ---
-title: Hey there i am Oluwole Oluwapamilerin. Welcome to my portfolio website
+title: Hey there i am Oluwole Oluwapamilerin.
 ---
 
 # About me 
